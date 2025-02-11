@@ -2,7 +2,7 @@ const API_BASE_URL = "https://677bd77a20824100c07af8cd.mockapi.io/api";
 
 const API_ENDPOINTS = {
   USERS: "/user",
-  JOBS: "/job"
+  JOBS: "/job",
 };
 
 // API Functions

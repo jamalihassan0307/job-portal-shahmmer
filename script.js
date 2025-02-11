@@ -13,6 +13,8 @@ if (loginForm) {
     const password = document.getElementById("password").value;
     const errorMsg = document.getElementById("loginError");
 
+
+    
     try {
       const users = await fetchUsers();
       const user = users.find(
