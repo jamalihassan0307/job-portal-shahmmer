@@ -13,6 +13,13 @@
 
 Job Portal is a modern web application that connects employers and job seekers. It provides a platform for posting jobs, applying to positions, and managing applications efficiently.
 
+## 🔐 Authentication
+
+<div align="center">
+  <img src="screenshots/login.png" alt="Login Interface" width="800"/>
+  <p><em>Secure login interface for users and administrators</em></p>
+</div>
+
 # 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
