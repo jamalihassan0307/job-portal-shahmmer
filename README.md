@@ -123,3 +123,10 @@ Job Portal is a modern web application that connects employers and job seekers. 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## 👨‍💻 Developer Contact
+
+Feel free to reach out to me for any questions or collaboration:
+
+- GitHub: [@jamalihassan0307](https://github.com/jamalihassan0307)
+- LinkedIn: [jamalihassan0307](https://www.linkedin.com/in/jamalihassan0307)
