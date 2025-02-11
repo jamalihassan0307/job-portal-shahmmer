@@ -13,7 +13,7 @@ async function fetchUsers() {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
     const data = await response.json();
-    console.log("Fetched users:", data); // For debugging
+    console.log("Fetched users:", data);
     return data;
   } catch (error) {
     console.error("Error fetching users:", error);
