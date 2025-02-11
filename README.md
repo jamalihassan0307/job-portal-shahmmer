@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-    <a href="https://your-job-portal-url.com" target="_blank">
+    <a href="https://jamalihassan0307.github.io/job-portal-shahmmer/" target="_blank">
         <img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" />
     </a>
 </p>
