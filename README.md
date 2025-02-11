@@ -24,41 +24,41 @@ Job Portal is a modern web application that connects employers and job seekers. 
 ### Admin Interface
 
 <div align="center">
-  <img src="admin_home.png" alt="Admin Dashboard" width="800"/>
+  <img src="screenshots/admin_home.png" alt="Admin Dashboard" width="800"/>
   <p><em>Admin dashboard for managing job listings</em></p>
   
-  <img src="add_job.png" alt="Add New Job" width="800"/>
+  <img src="screenshots/add_job.png" alt="Add New Job" width="800"/>
   <p><em>Interface for posting new job opportunities</em></p>
   
-  <img src="edit_job.png" alt="Edit Job" width="800"/>
+  <img src="screenshots/edit_job.png" alt="Edit Job" width="800"/>
   <p><em>Edit existing job listings</em></p>
 </div>
 
 ### Admin Profile Management
 
 <div align="center">
-  <img src="admin_profile.png" alt="Admin Profile" width="800"/>
-  <img src="admin_profile1.png" alt="Admin Profile Edit" width="800"/>
+  <img src="screenshots/admin_profile.png" alt="Admin Profile" width="800"/>
+  <img src="screenshots/admin_profile1.png" alt="Admin Profile Edit" width="800"/>
   <p><em>Admin profile management interface</em></p>
 </div>
 
 ### Job Search and Filtering
 
 <div align="center">
-  <img src="fuilter_job.png" alt="Job Filtering" width="800"/>
+  <img src="screenshots/fuilter_job.png" alt="Job Filtering" width="800"/>
   <p><em>Advanced job filtering options</em></p>
 </div>
 
 ### User Experience
 
 <div align="center">
-  <img src="user_home_applyjob.png" alt="User Dashboard" width="800"/>
+  <img src="screenshots/user_home_applyjob.png" alt="User Dashboard" width="800"/>
   <p><em>User dashboard for browsing and applying to jobs</em></p>
   
-  <img src="myapplied_jobs.png" alt="Applied Jobs" width="800"/>
+  <img src="screenshots/myapplied_jobs.png" alt="Applied Jobs" width="800"/>
   <p><em>Track applied job applications</em></p>
   
-  <img src="user_profile.png" alt="User Profile" width="800"/>
+  <img src="screenshots/user_profile.png" alt="User Profile" width="800"/>
   <p><em>User profile management</em></p>
 </div>
 
