@@ -33,7 +33,7 @@ Job Portal is a modern web application that connects employers and job seekers. 
   <img src="screenshots/login.png" alt="Login Interface" width="800"/>
   <p><em>Secure login interface for users and administrators</em></p>
 </div>
-### Admin Interface
+ ### Admin Interface
 
 <div align="center">
   <img src="screenshots/admin_home.png" alt="Admin Dashboard" width="800"/>
